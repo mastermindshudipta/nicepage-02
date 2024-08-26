@@ -1,0 +1,782 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+/*frist project start*/
+.hero{
+    background-color: #F2F2F2;
+    height: 2220px;
+}
+.all{
+    position: relative;
+    top: 70px;
+    margin-left: 100px;
+}
+.tmou{
+    background-image: url("./image/pent.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 595px;
+    width: 90%;
+}
+.style {
+	position: relative;
+	top: 100px;
+}
+.style h3 {
+	position: relative;
+	top: -78px;
+	left: 22px;
+	color: #ffffff;
+	font-family: Montserrat, sans-serif;
+	font-size: 25px;
+}
+.style h1 {
+	position: relative;
+	font-size: 6rem;
+	top: -80px;
+	left: 15px;
+	font-weight: 700;
+    font-family: Montserrat, sans-serif;
+    color: #f9f29b;
+    line-height: 1.1;
+
+}
+.style h4 {
+	position: relative;
+	top: -69px;
+	left: 38px;
+	font-size: 35px;
+	font-weight: normal;
+    color: #ffffff;
+    font-family: Montserrat, sans-serif;
+    padding: 0;
+    letter-spacing: 2px;
+}
+.style p {
+	position: relative;
+	top: -64px;
+	left: 44px;
+	line-height: 33px;
+    font-family: 'open sans',sans-serif;
+}
+.style a{
+    color: #f9f29b;
+    text-decoration: none;
+    text-transform: capitalize;
+}
+.style h2 {
+	position: relative;
+	margin-left: 539px;
+	font-size: 6rem;
+	top: -60px;
+    font-family: Montserrat, sans-serif;
+    color: #ffffff;
+}
+.scale {
+	position: relative;
+	top: 14px;
+	width: 545px;
+	margin-left: 354px;
+	background-color: #ffffff;
+	height: 239px;
+	padding: 79px;
+    line-height: 56px;
+    text-align: center;
+}
+.scale h1{
+    font-size: 1.875rem;
+    font-family: Montserrat, sans-serif;
+}
+.scale a{
+    text-decoration: none;
+    border: 1px solid #f1e00e;
+    color: #111111;
+    background-color: #f1e00e;
+    font-family: Montserrat, sans-serif;
+    padding: 14px 28px;
+    font-weight: 200;
+}
+.scale a:hover{
+    background-color: #ede02ace;
+}
+
+.parent {
+	display: flex;
+	position: relative;
+	margin-top: 110px;
+	margin-left: 163px;
+	gap: 118px;
+}
+.childone {
+	position: relative;
+	margin-top: 85px;
+	display: flex;
+    gap: 39px;
+    margin-left: 277px;
+}
+.cloth h1 {
+	position: relative;
+	top: 18px;
+	margin-left: 280px;
+    font-family: Montserrat, sans-serif;
+}
+.cloth p {
+	position: relative;
+	top: 20px;
+	margin-left: 280px;
+    font-family: 'open sans',sans-serif;
+}
+.shoe h1 {
+	position: relative;
+	margin-left: 690px;
+	top: -33px;
+    font-family: 'open sans',sans-serif;
+}
+.shoe p{
+    position: relative;
+    margin-left: 690px;
+    top: -32px;
+    font-family: 'open sans',sans-serif;
+}
+.childone img {
+	width: 37%;
+	height: 336px;
+}
+.childtwo {
+	position: relative;
+	margin-top: 85px;
+	display: flex;
+}
+.childtwo img {
+	width: 37%;
+	height: 336px;
+}
+.childtwo {
+	position: relative;
+	margin-top: -13px;
+	display: flex;
+    gap: 39px;
+    margin-left: 277px;
+}
+.jewalary h1 {
+	position: relative;
+	margin-left: 282px;
+	top: 14px;
+    font-family: 'open sans',sans-serif;
+}
+.jewalary p{
+    position: relative;
+    margin-left: 282px;
+    top: 13px;
+    font-family: 'open sans',sans-serif;
+}
+.access h1 {
+	position: relative;
+	margin-left: 688px;
+	top: -43px;
+    font-family: 'open sans',sans-serif;
+}
+.access p{
+    position: relative;
+    margin-left: 688px;
+    top: -42px;
+    font-family: 'open sans',sans-serif;
+}
+.access a{
+    text-decoration: none;
+    color: #f1e00e;
+    text-transform: capitalize;
+}
+.doc {
+	position: relative;
+	top: 33px;
+	width: 100%;
+	height: 200px;
+	background-color: #f1e00e;
+    font-size: 50px;
+    text-align: center;
+}
+.doc p{
+    position: relative;
+    top: 50px;
+    font-family: 'open sans',sans-serif;
+    font-weight: 400;
+}
+/*frist project end*/
+
+/*second project start*/
+.type{
+    background-color: #F2F2F2;
+    height: 1046px;
+}
+.man img {
+	width: 45%;
+	margin-top: 56px;
+	margin-left: 66px;
+	height: 473px;
+}
+.new {
+	position: relative;
+	width: 353px;
+	height: 225px;
+	background-color: white;
+	top: -342px;
+	margin-left: 218px;
+	text-align: center;
+	padding: 42px;
+	font-size: 20px;
+    font-family: 'open sans',sans-serif;
+
+}
+.new a {
+	text-decoration: none;
+	border: 1px solid #f1e00e;
+	line-height: 74px;
+	padding: 5px 15px;
+    background-color: #f1e00e;
+    color: #111111;
+}
+.image {
+	display: flex;
+	margin-left: 672px;
+	position: relative;
+	top: -703px;
+	gap: 36px;
+}
+.image img{
+    width: 42%;
+    height: 222px;
+}
+.top, .woman{
+    position: relative;
+    top: -700px;
+}
+.top h1 {
+	position: relative;
+	margin-left: 673px;
+	top: 21px;
+    font-family: 'open sans',sans-serif;
+}
+.top p{
+    position: relative;
+    margin-left: 718px;
+    top: 47px;
+    font-family: 'open sans',sans-serif;
+}
+.woman h1 {
+	position: relative;
+	margin-left: 962px;
+	top: -36px;
+    font-family: 'open sans',sans-serif;
+}
+.woman p{
+    position: relative;
+    margin-left: 1002px;
+    top: -8px;
+    font-family: 'open sans',sans-serif;
+}
+.six img {
+	width: 20%;
+	position: relative;
+	top: -478px;
+	margin-left: 60px;
+	height: 244px;
+}
+.seven img {
+	position: relative;
+	top: -783px;
+	width: 16%;
+	margin-left: 386px;
+	height: 262px;
+}
+.three, .pic{
+    position: relative;
+    top: -651px;
+}
+.three h1{
+    position: relative;
+    top: -76px;
+    margin-left: 65px;
+    font-family: 'open sans',sans-serif;
+}
+.three p{
+    position: relative;
+    top: -61px;
+    margin-left: 92px;
+    font-family: 'open sans',sans-serif;
+}
+.pic h1{
+    position: relative;
+    top: -175px;
+    margin-left: 391px;
+    font-family: 'open sans',sans-serif;
+}
+.pic p{
+    position: relative;
+    top: -174px;
+    margin-left: 412px;
+    font-family: 'open sans',sans-serif;
+    line-height: 33px;
+}
+.pic a{
+    text-decoration: none;
+    color: #f1e00e;
+    text-transform: capitalize;
+}
+.png img {
+	position: relative;
+	width: 46%;
+	top: -1339px;
+	margin-left: 663px;
+	height: 481px;
+	padding: 37px;
+}
+.view {
+	position: relative;
+	top: -1639px;
+	width: 300px;
+	height: 182px;
+	background-color: #F2F2F2;
+	margin-left: 780px;
+	text-align: center;
+	padding: 47px;
+    font-family: 'open sans',sans-serif;
+}
+.view a {
+	text-decoration: none;
+	line-height: 63px;
+	border: 1px solid #f1e00e;
+	padding: 5px 18px;
+    background-color: #f1e00e;
+    color: #111111;
+}
+
+/*second project end*/
+/*third project start*/
+.commit{
+    background-color: #F2F2F2;
+}
+.header {
+	background-image: url("./image/ten.png");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	margin-left: 86px;
+	width: 88%;
+	height: 622px;
+}
+.product{
+    position: relative;
+    top: 100px;
+}
+.product h3 {
+	position: relative;
+	top: -80px;
+	margin-left: 25px;
+    font-weight: 700;
+	font-size: 1.875rem;
+    color: #ffffff;
+    font-family: Montserrat, sans-serif;
+}
+.product h1 {
+	position: relative;
+	top: -61px;
+	margin-left: 25px;
+	font-size: 6rem;
+    color: #f9f29b;
+    font-family: Montserrat, sans-serif;
+}
+.product h4 {
+	position: relative;
+	top: -49px;
+	margin-left: 25px;
+	font-size: 2rem;
+	font-weight: normal;
+    color: #ffffff;
+    font-family: Montserrat, sans-serif;
+    letter-spacing: 2px;
+}
+.product p{
+    position: relative;
+    top: -40px;
+    margin-left: 25px;
+    color: #ffffff;
+    font-family: Montserrat, sans-serif;
+}
+.product a{
+    text-decoration: none;
+    line-height: 63px;
+    color: #f9f29b;
+    text-transform: capitalize;
+}
+.product h5 {
+	position: relative;
+	margin-left: 569px;
+	top: -68px;
+	font-size: 97px;
+    color: #ffffff;
+    font-family: Montserrat, sans-serif;
+}
+/*third project end*/
+/*four project start*/
+.tupi{
+	background-color: white;
+	height: 940px;
+}
+.cdn{
+	display: flex;
+}
+.cdn img {
+	width: 41%;
+	position: relative;
+	top: 90px;
+	margin-left: 85px;
+	height: 460px;
+}
+.cdn h1 {
+	position: relative;
+	top: 230px;
+	left: 23px;
+	margin-left: 39px;
+	color: #111111;
+	font-family: 'open sans',sans-serif;
+}
+.cdn .imageone {
+	width: 21%;
+	height: 285px;
+}
+.hen {
+	position: relative;
+	width: 340px;
+	height: 188px;
+	background-color: white;
+	top: -161px;
+	margin-left: 143px;
+	text-align: center;
+	padding: 38px;
+	line-height: 48px;
+	font-family: 'open sans',sans-serif;
+}
+.hen a{
+	text-decoration: none;
+	background-color: #f1e00e;
+	color: #111111;
+	border: 1px solid #f1e00e;
+	padding: 5px 15px;
+}
+.Featured{
+	display: flex;
+}
+.Featured img {
+	width: 18%;
+	height: 300px;
+	position: relative;
+	top: -55px;
+	margin-left: 84px;
+}
+.Featured .facetwo{
+	position: relative;
+	left: -38px;
+}
+.Featured .faceone {
+	position: relative;
+	top: -220px;
+	width: 553px;
+	height: 462px;
+	left: -44px;
+}
+.final {
+	position: relative;
+	top: -508px;
+	margin-left: 739px;
+	width: 359px;
+	height: 203px;
+	background-color: white;
+	text-align: center;
+	padding: 48px;
+	line-height: 49px;
+	font-family: 'open sans',sans-serif;
+}
+.final a{
+	text-decoration: none;
+	border: 1px solid #f1e00e;
+	background-color: #f1e00e;
+	padding: 5px 16px;
+}
+/*four project end*/
+/*five project start*/
+.sharp {
+	background-color: #F2F2F2;
+	height: 297px;
+}
+.solid {
+	display: flex;
+	margin-left: 140px;
+	position: relative;
+	top: 65px;
+	font-size: 39px;
+	gap: 269px;
+	color: #615f5fcf;
+}
+.free {
+	display: flex;
+	position: relative;
+	top: 75px;
+	margin-left: 70px;
+	gap: 90px;
+	font-size: 16px;
+}
+.free h1{
+	font-weight: 500;
+	font-family: 'open sans',sans-serif;
+}
+.sample {
+	display: flex;
+	position: relative;
+	top: 106px;
+	gap: 101px;
+	text-align: center;
+}
+.sample .clicktwo{
+	position: relative;
+	left: 67px;
+}
+.sample .clickone{
+	position: relative;
+	left: 60px;
+}
+.sample .click{
+	position: relative;
+	left: -68px;
+}
+/*five project end*/
+/*six project start*/
+.your{
+	background-image: url("./image/tupi5.png");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 616px;
+	width: 89%;
+	position: relative;
+	top: 46px;
+	margin-left: 78px;
+}
+.eleven{
+	position: relative;
+	top: 200px;
+}
+.enter h1 {
+	position: relative;
+	margin-left: 245px;
+	font-size: 52px;
+	font-weight: 70;
+	color: #F2F2F2;
+	font-family: 'open sans',sans-serif;
+}
+.enter span{
+	position: relative;
+	left: 144px;
+}
+.input {
+	position: relative;
+	margin-left: 313px;
+	top: 48px;
+}
+.input .place {
+	margin-left: -24px;
+	padding: 16px;
+	width: 457px;
+}
+.input a {
+	width: 100px;
+	border: 1px solid #f9f29b;
+	margin-left: 450px;
+	position: relative;
+	top: -35px;
+	padding: 16px 31px;
+	text-decoration: none;
+	font-family: 'open sans',sans-serif;
+	color: #111111;
+	background-color: #f9f29b;
+}
+.Element p {
+	position: relative;
+	top: 57px;
+	margin-left: 370px;
+	line-height: 40px;
+	color: #F2F2F2;
+	font-family: 'sans sarif',sans-serif;
+}
+.Element a{
+	text-decoration: none;
+	color: #f9f29b;
+	text-transform: capitalize;
+}
+/*six project end*/
+/*seven project start*/
+
+.default{
+	background-color: #F2F2F2;
+	height: 348px;
+	margin: 100px 0;
+}
+.logo {
+	display: flex;
+	position: relative;
+	top: 96px;
+	margin-left: 74px;
+	gap: 215px;
+}
+.logo h1{
+	font-family: 'open sans',sans-serif;
+	font-weight: 400;
+	font-size: 20px;
+}
+.index {
+	display: flex;
+	position: relative;
+	top: 109px;
+	margin-left: 60px;
+	gap: 166px;
+	font-family: 'open sans',sans-serif;
+}
+.index .foot{
+	position: relative;
+	left: -58px;
+}
+.index .footone{
+	position: relative;
+	left: -62px;
+}
+.index .foottwo{
+	position: relative;
+	left: -69px;
+}
+.sitte {
+	position: relative;
+	top: 158px;
+	background-color: #00000091;
+	height: 99px;
+	font-family: 'open sans',sans-serif;
+}
+.web{
+	display: flex;
+	justify-content: center;
+	gap: 4px;
+	position: relative;
+	top: 40px;
+	color: #F2F2F2;
+}
+.web a{
+	color: #F2F2F2;
+}
+.web a:hover{
+	text-decoration: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
